@@ -21,8 +21,13 @@ And I'm also expolring the new age AI field
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vsevaishnav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vshnv-anand) 
 
 
-<b>My GitHub Stats</b>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pushpendraaa&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pushpendraaa&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpendraaa&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="http://www.github.com/vshnvanand"><img src="https://github-readme-stats.vercel.app/api?username=vshnvanand&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vaishnav's GitHub stats" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pushpendraaa&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="http://www.github.com/vshnvanand"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vshnvanand&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=pushpendraaa&icon=0&color=0)](https://visitcount.itsvg.in)
