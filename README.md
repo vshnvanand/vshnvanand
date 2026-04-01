@@ -1,6 +1,6 @@
 ## Hello, I am Vaishnav Anand 👋
 
-Full Stack Developer and AI engineer
+Full Stack Developer
 ------------------------------------
 I specialize in full-stack development with Next.js and Express.js, using TypeScript for type safety. I have experience with modern web technologies and tools.
 And I'm also expolring the new age AI field
